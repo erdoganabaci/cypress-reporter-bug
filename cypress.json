@@ -8,8 +8,8 @@
     "reportPageTitle": "My Test Suite",
     "embeddedScreenshots": true,
     "inlineAssets": true,
-    "html":false,
-    "json":true,
+    "html":true,
+    "json":false,
     "debug":true
   },
   "video": false
