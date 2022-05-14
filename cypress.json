@@ -1,0 +1,16 @@
+{
+  "baseUrl": "http://localhost:8888",
+  "pluginsFile": false,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reportDir": "cypress/reports",
+    "charts": true,
+    "reportPageTitle": "My Test Suite",
+    "embeddedScreenshots": true,
+    "inlineAssets": true,
+    "html":false,
+    "json":true,
+    "debug":true
+  },
+  "video": false
+}
