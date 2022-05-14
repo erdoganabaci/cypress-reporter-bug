@@ -53,3 +53,6 @@ const defaultReporterOptions = {
 Other problem screenshoots doesnt shown in the generated report. You can see below screenshot.
 ![Screenshot bug cypress reporter](img/reporter_ss_bug.png)
 
+## Current Version
+Node version = ``` v14.15.4 ```
+Npm version = ```6.14.10 ```
